@@ -212,6 +212,18 @@ nav ul li{
   margin: 1rem 2rem .5rem 0;
   fill: var(--white-text);
 }
+.instagram:hover{
+  fill: #d6249f;
+}
+.twitter:hover{
+  fill: #1DA1F2;
+}
+.linkedin:hover{
+  fill: #0E76A8;
+}
+.facebook:hover{
+  fill: #3B5998;
+}
 .social_dev{
   width: 300px;
   height: 40px;
